@@ -2,8 +2,11 @@
  A simple Student Management System
 
  - Done in Netbeans using Java
- - Registers students
  - Uses MySQL as database
- - Can view registered students
+ - Registers students
+ - Able to fetch registered students from database and display in a table
+
+
+
 
 
